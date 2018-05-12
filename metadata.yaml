@@ -1,0 +1,31 @@
+_repo: Little-Women-Letters-from-the-House-of-Alcott_34106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Bonstelle, Jessie
+    alias: Stuart, Jessie Bonstelle
+    gutenberg_agent_id: '43616'
+    url: http://www.gutenberg.org/2009/agents/43616
+  - agent_name: De Forest, Marian
+    alias: Forest, Marian de
+    deathdate: 1935
+    gutenberg_agent_id: '39031'
+    url: http://www.gutenberg.org/2009/agents/39031
+description: ''
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34106'
+  lccn: '14017126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alcott family'
+- !lcc 'PS'
+title: Little Women Letters from the House of Alcott
+url: http://www.gutenberg.org/ebooks/34106
